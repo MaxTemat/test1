@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">U-Requests</string>
+    <string name="facebook_app_id">493257442381707</string>
+    <string name="fb_login_protocol_scheme">fb493257442381707</string>
+    <string name="facebook_client_token">d7227f4f64a2e5173a02549a53b68f6b</string>
+</resources>
